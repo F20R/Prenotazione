@@ -32,6 +32,8 @@ nav {
 
     overflow: hidden;
     background-color: #17202A;
+    margin-left: -120px;
+    margin-right: -120px;
 }
 nav ul {
     list-style-type:none;
